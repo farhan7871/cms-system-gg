@@ -1,0 +1,21 @@
+1. HomePage
+Sisi kiri
+- Image
+- Title
+- Desc
+- Button
+
+Sisi Kanan
+- Image
+
+2. Project
+Sisi kiri
+- Persen
+
+Sisi Kanan
+- Title
+- Desc
+
+3. Our Products
+- Image
+- Link
